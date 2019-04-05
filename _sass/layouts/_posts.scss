@@ -52,6 +52,12 @@ header {
     }
   }
   .post-content {
-    @extend %padding-regular;
+    padding: 5% 0;
+    width: 700px;
+    margin: 0 auto;
+
+    iframe, img, embed, object, video {
+      width: 100%;
+    }
   }
 }

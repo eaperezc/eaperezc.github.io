@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/honor-and-glory
 title: Honor & Glory
 tags: [videogames, demos, unity3d]
 feature-img: "assets/img/honor-and-glory/battlehg.jpg"
