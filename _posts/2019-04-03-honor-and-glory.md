@@ -8,9 +8,9 @@ feature-img: "assets/img/honor-and-glory/battlehg.jpg"
 
 It's been a while since I started working with Unity3d and try to learn the ways of videogame development. Honor & Glory was the name we came up with for this first project and even when we learned a lot the project was not fully successful. Why was that? I thought it would be a good idea to write a post to remember what we built that time and remember the learnings from our first project.
 
-## So... what the game about?
+## So... what's the game about?
 
-The H&G idea's origin came from a weird mix of a couple other games (let's call it inspiration). Those games would be Diablo, League of Legends, and probably some other game I don't remember. The gameplay genre was going to be a 3rd person, top down camera, medieval arena battles game so pretty much an Diablo-like arena game. 
+The H&G origin came from a weird mix of a couple other games (let's call it inspiration). Those games would be Diablo, League of Legends, and probably some other game I don't remember. The gameplay genre was going to be a 3rd person, top down camera, medieval arena battles game so pretty much an Diablo-like arena game. 
 
 Here's a screenshot image of the result of our work: 
 
@@ -40,7 +40,7 @@ More learnings came with those changes. I guess the most interesting learning I 
 
 Even with all those improvements the game didn't feel complete and didn't meet our own quality standards. And I guess here's where we started to make some mistakes in scoping and planning. 
 
-## Why it wasn't finished?
+## Why wasn't it finished?
 
 We didn't have any real experience and we had great expectations for the project. We wanted to make the next World of Warcraft or the next Skyrim with a small team and no budget, easy right? what could go wrong? 
 
@@ -53,7 +53,7 @@ Here's a screenshot of the "new" arena level we were working on at the time.
 
 ## Conclusion
 
-We learned a lot, built a nice game and we fell down by our ambition. I'd say that was worth it. This was the start of our adiction on making games and even when sometimes we have stopped working on them we always come back to build the next game.
+We learned a lot, built a nice game and we fell down by our ambition. I'd say that was worth it. This was the start of our addiction on making games and even when sometimes we have stopped working on them we always come back to build the next game.
 
 ![Honor And Glory Characters]({{ site.baseurl }}/assets/img/honor-and-glory/victoryhg.png)
 

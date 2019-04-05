@@ -52,9 +52,13 @@ header {
     }
   }
   .post-content {
-    padding: 5% 0;
-    width: 700px;
-    margin: 0 auto;
+    @extend %padding-regular;
+
+    @media (min-width: 1000px) {
+      padding: 5% 0;
+      width: 700px;
+      margin: 0 auto;
+    }
 
     iframe, img, embed, object, video {
       width: 100%;
